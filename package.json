@@ -1,0 +1,19 @@
+{
+  "name": "dante",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonr17/sisglo_dante.git"
+  },
+  "author": "ravisky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisonr17/sisglo_dante/issues"
+  },
+  "homepage": "https://github.com/edisonr17/sisglo_dante#readme"
+}
